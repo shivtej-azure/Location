@@ -1,2 +1,3 @@
 This is parent branch
-thuis will contain branches for each area
+this will contain branches for each area
+you can use VS code as IDE
